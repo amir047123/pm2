@@ -231,18 +231,12 @@ Feel free to try it:
 
 Thanks in advance and we hope that you like PM2!
 
-## CHANGELOG
 
-[CHANGELOG](https://github.com/Unitech/PM2/blob/master/CHANGELOG.md)
-
-## Contributors
-
-[Contributors](http://pm2.keymetrics.io/hall-of-fame/)
 
 ## License
 
-PM2 is made available under the terms of the GNU Affero General Public License 3.0 (AGPL 3.0).
-For other licenses [contact us](mailto:contact@keymetrics.io).
+PM2 is made available under the terms of the Amir Faysal
+For other licenses [contact us](mailto:amirfaysal0471@gamil.com).
 # pm2
 # pm2
 # pm2
